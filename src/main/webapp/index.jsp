@@ -5,7 +5,7 @@
   
 <marquee>Welcome to Cloud With Hammad</marquee>
 
-<marquee direction="up">Welcome to Cloud With Gagan| DEVOPS </marquee>
+<marquee direction="up">Welcome to Cloud With Gagan2| DEVOPS </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
